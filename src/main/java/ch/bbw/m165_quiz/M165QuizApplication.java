@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class M165QuizApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(M165QuizApplication.class, args);
+        SpringApplication.run(Quiz.class, args);
     }
 
 }
