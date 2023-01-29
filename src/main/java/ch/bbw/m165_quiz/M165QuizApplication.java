@@ -1,4 +1,4 @@
-package com.example.m165_quiz;
+package ch.bbw.m165_quiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

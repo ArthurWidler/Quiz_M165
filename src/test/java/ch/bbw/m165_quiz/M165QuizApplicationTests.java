@@ -1,4 +1,4 @@
-package com.example.m165_quiz;
+package ch.bbw.m165_quiz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
