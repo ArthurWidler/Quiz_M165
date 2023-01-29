@@ -15,7 +15,7 @@ public class Quiz {
 
     public static void main(String[] args) {
         MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
-        List<Integer> indexList = Arrays.asList(3,1,3,2,2);
+        List<Integer> indexList = Arrays.asList(2,1,1,3,2,1,3,3,2,1);
 
         MongoDatabase database = mongoClient.getDatabase("quizdb");
         MongoCollection<Document> questions = database.getCollection("questions");
